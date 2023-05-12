@@ -1,0 +1,1 @@
+{"version":3,"file":"userEventsSubscriber.module.js","sourceRoot":"","sources":["../../src/userEventsSubscriber/userEventsSubscriber.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,iFAA6E;AAC7E,6DAA0D;AAKnD,IAAM,0BAA0B,GAAhC,MAAM,0BAA0B;CAAG,CAAA;AAA7B,0BAA0B;IAHtC,IAAA,eAAM,EAAC;QACN,SAAS,EAAE,CAAC,0DAA2B,EAAC,8BAAa,CAAC;KACvD,CAAC;GACW,0BAA0B,CAAG;AAA7B,gEAA0B"}
